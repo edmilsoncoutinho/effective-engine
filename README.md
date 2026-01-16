@@ -1,1 +1,1 @@
- effective-engine
+EC omnicore 
